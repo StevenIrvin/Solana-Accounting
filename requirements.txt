@@ -1,0 +1,5 @@
+jupyter==1.1.1
+solana==0.36.2
+base58==2.1.1
+pytz==2024.2
+pandas==2.2.3
